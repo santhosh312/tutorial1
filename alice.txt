@@ -1,3 +1,4 @@
 This file is added to the staging area
 And commited with git commit -m "add alice file"
 Now it being modified.
+This file is changed here.
